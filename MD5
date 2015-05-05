@@ -1,0 +1,15 @@
+9af273f0c0ce09e499c4637201598d65 *DESCRIPTION
+39adb926d4e9bc1320f61b6bf5482cc8 *NAMESPACE
+fd021b9657d5c45207d5a88187da2ead *R/locfdr.R
+258ff1c4354e7646bdc000d87f8d8d19 *build/vignette.rds
+4cebc76f7de261b76f916c2a23dfb45b *inst/doc/localfdr-intro-vignette.R
+fc6355d6c873d9c6e468871791eef85a *inst/doc/localfdr-intro-vignette.Rmd
+892e8bf09dfa534020de69c5cb3d7269 *inst/doc/localfdr-intro-vignette.html
+59c02727656e9045696d4bb421294fd7 *man/AnalyticalOptim.Rd
+fc04ba9f6c5b784bfc5a08bc495e831c *man/BuildTable.Rd
+df2075ceba6372534df986ac1d08d8fe *man/LLConstructor.Rd
+a8974cdd64c996853333b4611bba5877 *man/LocfdrFuns.Rd
+624f103ef6169dd6bbb50a0e9e26a3a8 *man/MixtureDensity.Rd
+238fb7cd238b1ff888e3a21a79c5cfc4 *man/NullDensity.Rd
+7c295d1925170f6cdfb40ee31cbac8f7 *man/SummarizeLocfdr.Rd
+fc6355d6c873d9c6e468871791eef85a *vignettes/localfdr-intro-vignette.Rmd
